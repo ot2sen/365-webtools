@@ -29,4 +29,11 @@ and for full page website captures, editable before save I use
 
 03-01-2015 Saturday:
 ---------------------
-To be added 03/01-2015
+An extremely valuable primary tool I work with every day of the year is the open source [Joomla! CMS](http://www.joomla.org).  
+So there will be lots of joomla related tool mentions in the daily shares. The tool of today is for joomla templating.
+
+<b>Yth - Yireo Template Helper (free)</b> - [Yth](https://www.yireo.com/software/joomla-extensions/template-helper)
+
+04-01-2015 Sunday:
+-------------------
+To be added 04/01-2015
